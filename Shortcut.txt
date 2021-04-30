@@ -1,0 +1,6 @@
+Pycharm shortcut
+ctrl + d : 복사
+alt + f1 : 네비게이션 조정
+ctrl + shift + f10 : run
+ctrl + shift + f4 : close tab / ctrl + f4
+
